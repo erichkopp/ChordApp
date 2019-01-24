@@ -1,0 +1,1 @@
+var semitones = ["a, a#, b, c, c#, d, d#, e, f, f#, g, g#"]

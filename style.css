@@ -1,40 +1,68 @@
-body {
-	/*background-color: purple;*/
-	background-color: #ba68c8;
-	background-color: #b388ff;
-	/*background-color: pink;*/
-	/*background-color: #f8bbd0;*/
+html, body {
+/*	max-width: 100%;
+	max-height: 100%;*/
 
-
+	background-color: black;
 }
 
-#app {
+body {
+	background-color: black;
+	overflow: hidden;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+/*@-ms-viewport{
+  width: device-width;
+}*/
+
+
+/*#app {
+	
     width: 406px;
-    height: 522px;
-    
+    height: 522px;    
     margin: 0 auto;
     position: relative;
 
-}
+}*/
 
-.background {
-	border-radius: 8px;
-	box-shadow: 10px 7px 14px 3px rgba(0,0,0,0.63);
-	background-color: #1a1a1a;
-	padding: 5px;
-}
+
 
 .wheel {
     position: absolute;
-    left: 0;
+    /*left: 0;*/
     top: 0;
     padding: 5px;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .buttons {
 	width: 128px;
 	margin: 0 auto;
-	margin-top: -323px;
+	margin-top: -318px;
 	position: relative;
 	z-index: 1;
 }
