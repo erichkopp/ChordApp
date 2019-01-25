@@ -8,9 +8,6 @@ html, body {
 body {
 	background-color: black;
 	overflow: hidden;
-	margin: 0;
-	border: 0;
-	padding: 0;
 }
 
 /*@-ms-viewport{
@@ -27,54 +24,77 @@ body {
 
 }*/
 
-
+#app * {
+	height: 100%;
+	width: auto;
+}
 
 .wheel {
     position: absolute;
-    /*left: 0;*/
     top: 0;
+    /*margin: 0 auto;*/
+    padding: 0;
+    border: 0;
+}
+
+
+.buttons {
+	width: 433.153px;
+}
+
+.plus {
+	position: relative;
+	width: auto;
+	background-color: red;
+	margin: 0 auto;
+	z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.buttons {
+	position: absolute;
+	    top: 0;
     padding: 5px;
     height: 100%;
     width: auto;
     margin: 0 auto;
-}
+    padding: 0;
+    border: 0;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.buttons {
-	width: 128px;
+	width: auto;
 	margin: 0 auto;
 	margin-top: -318px;
 	position: relative;
 	z-index: 1;
-}
 
-.buttons img {
+
+}*/
+
+/*.buttons img {
 	padding-top: 22px;
 	padding-bottom: 22px;
 	padding-left: 5px;
-}
+}*/
 
-.buttons img:hover {
+/*.buttons img:hover {
 	cursor: pointer;
 	opacity: 0.6;
 	transition: .2s;
-}
+}*/
