@@ -1,91 +1,26 @@
 html, body {
-/*	max-width: 100%;
-	max-height: 100%;*/
-
-	background-color: black;
+	background-color: #1A1A1A;
 }
 
 body {
-	background-color: black;
 	overflow: hidden;
 }
 
-/*@-ms-viewport{
-  width: device-width;
-}*/
-
-
-/*#app {
-	
-    width: 406px;
-    height: 522px;    
-    margin: 0 auto;
-    position: relative;
-
-}*/
-
-#app * {
-	height: 100%;
-	width: auto;
+img {
+	user-select: none;
 }
 
 .wheel {
-    position: absolute;
-    top: 0;
-    /*margin: 0 auto;*/
-    padding: 0;
-    border: 0;
-}
-
-
-.buttons {
-	width: 433.153px;
-}
-
-.plus {
-	position: relative;
+  position: absolute;
+  height: 100%;
 	width: auto;
-	background-color: red;
-	margin: 0 auto;
-	z-index: 1;
+  top: 0;
+  /*margin: 0 auto;*/
+  padding: 0;
+  border: 0;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*.buttons {
-	position: absolute;
-	    top: 0;
-    padding: 5px;
-    height: 100%;
-    width: auto;
-    margin: 0 auto;
-    padding: 0;
-    border: 0;
-
-
-	width: auto;
-	margin: 0 auto;
-	margin-top: -318px;
-	position: relative;
-	z-index: 1;
-
-
-}*/
 
 /*.buttons img {
 	padding-top: 22px;
