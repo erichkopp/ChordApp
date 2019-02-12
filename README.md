@@ -5,5 +5,5 @@ https://erichkopp.github.io/TheorumWheel
 
 Easily transpose a song from one key to another <br>
 Roman numeral system (I,ii,iii,IV,V,vi,vii) denotes each chord/scale interval <br>
-Reference to find all notes within a given scale
+Reference to find all notes within a given scale <br>
 Color-coded major/minor/diminished chords in any key
