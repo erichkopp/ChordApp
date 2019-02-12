@@ -1,5 +1,5 @@
 # ChordApp
-An app that displays all 7 chord/scale intervals for all 12 musical keys
+<strong>An app that displays all 7 chord/scale intervals for all 12 musical keys</strong>
 
 https://erichkopp.github.io/TheorumWheel
 
