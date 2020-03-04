@@ -3,6 +3,8 @@
 
 https://erichkopp.github.io/TheorumWheel
 
+![Screenshot](screenshot.png)
+
 <ul>
   <li>Easily transpose a song from one key to another </li>
   <li>Roman numeral system (I,ii,iii,IV,V,vi,vii) denotes each chord/scale interval </li>
